@@ -28,6 +28,8 @@ PDP8/data/extracted_data/solar_irradiance_points.csv
 #######
 #######
 ######
+###nothing to see here
+######
 
 # Large files (>100MB) that would cause Git push errors
 PDP8/data/vnm_general_2020.csv
